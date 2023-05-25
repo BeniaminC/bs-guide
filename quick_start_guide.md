@@ -86,36 +86,36 @@ This guide will not go into the minutae of each ship, but some general combos ar
 
 
 ## Traders
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship | Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Trader | --- | Flare ships and minelayers |
 | Merchant | --- | Flare ships and minelayers |
 
 ## Scouters
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- |  ---- | ---- |
 | Sea Punisher | ??? | Any crowd control/disrupt |
 | Bombardier | Hookers | Ships with long range abilities |
 | Dwarfish | Weaker ships and Hookers | Flare ships |
 | Schooner |
 
 ## Summoners
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- |  ---- | ---- |
 | Corvette | Sailors and weak ships | Ships with long range abilities |
 | Druid | Early game ships | Ships that slow and ships that scout |
 | Juggernaut | Buildings | Ships with AoE Damage/remove summons abilities |
 | Doublejugger |
 
 ## Healers/Supporters
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship | Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Advanced Repair ship | Support | Teams with no crowd control | stunners/silencers/disrupters |
 
 
 ## Nukers
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Crusader | Sailors | Crowd control, especially nets |
 | Raft | Sailors | Stronger ships (3k+) |
 | Dominator | Weak ships | Scouters |
@@ -125,8 +125,8 @@ This guide will not go into the minutae of each ship, but some general combos ar
 | Flameship (3k,7k,14k) | Teams with no silencers/disrupters | silencers/disrupters |
 
 ## Crowd Controllers
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Brigg | Early game ships (with combo) and bunching | Silencers/disrupters |
 | Cog | Slower ships | Faster ships and LoS |
 | Cloudship | Ships with short range abilities | Ships with long range abilities |
@@ -139,8 +139,8 @@ This guide will not go into the minutae of each ship, but some general combos ar
 |
 
 ## Assassins
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Normandier | Sailors | Stronger ships |
 | Puddle skipper | Weak ships | Strong ships and invisibility detection |
 | Goblin | Crowd controlled ships | Faster ships |
@@ -152,28 +152,28 @@ This guide will not go into the minutae of each ship, but some general combos ar
 | Papayadealer |
 
 ## Initiators
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship | Strong Against | Weak Against |
+| ---- |  ---- | ---- |
 | Asian |
 | Barque |
 
 ## Mine-Layers
 
 ## Hookers
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship | Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Brigade |
 
 ## Dispellers
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship |  Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Ship of the line | Crowd controllers |
 | Ganja |
 
 ## Silencers/Disrupters
 Silencing is extremely stronk.
-| Ship | Type | Strong Against | Weak Against |
-| ---- | ---- | ---- | ---- |
+| Ship | Strong Against | Weak Against |
+| ---- | ---- | ---- |
 | Intercepter | Sailors and channel casting ships (i.e. flame ship) | Non-single target abilites (i.e. AoE stuns) |
 | Destroyer | Weaker Ships and ships with short range abilities | Any ships with crowd control/counter |
 | Nautilus | Weak ships and ships that channel their abilities | Ship that can detect invisible (flare), scope |
