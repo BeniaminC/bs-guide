@@ -10,7 +10,7 @@ This guide is made to help those who are starting to play or revisiting the game
 >
 > $Options \rightarrow gameplay \rightarrow team\space colored\space life\space bars$
 >
-> ![Health bars](health_bars.png)
+> ![Health bars](images\health_bars.png)![Alt text]
 
 ## General Ability Build Order
 
